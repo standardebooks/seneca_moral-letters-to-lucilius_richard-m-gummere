@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/seneca/moral-letters-to-lucilius/richard-m-gummere</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2026-10-16T19:00:15Z</dc:date>
+		<meta property="dcterms:modified">2026-10-16T19:00:15Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<meta property="rdf:type">http://schema.org/Book</meta>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
@@ -45,9 +45,9 @@
 		<meta property="schema:genre">Philosophy</meta>
 		<meta property="schema:abstract">An elderly Roman Stoic philosopher gives life advice to a young friend.</meta>
 		<dc:description>
-			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/seneca"&gt;Seneca&lt;/a&gt; was a Stoic philosopher and statesman in Ancient Rome who lived during the early post-Augustan era, becoming tutor to Nero, and then his advisor when Nero became emperor in 54 CE. Eventually Seneca retired from public life, and wrote a collection of letters to his friend Lucilius, who was the procurator of Sicily. These letters were finished and published right before Seneca’s death in 65 CE, when Nero forced him to commit suicide for his alleged involvement in a conspiracy to assassinate the emperor.&lt;/p&gt;
-			&lt;p&gt;These letters, which were written for widespread publication as well as to Lucilius, mainly focus on guiding readers to live life well. At times, the advice is regarding specific personal issues, such as when he gives a review of a book written by Lucilius. Other letters give Seneca’s thoughts on broader issues, such as slavery, independence of thought, and virtue. Through all of them, his Stoicism shines through, whether through his metaphysics (such as when he writes on “the god within us”) or his focus how virtue is the only good. “The point is, not how long you live, but how nobly you live,” as he says in one letter. Seneca also displays his diverse interests, sometimes addressing current events (such as the burning of Lyons), and at other times giving scientific speculation (giving thoughts about animal instincts).&lt;/p&gt;
-			&lt;p&gt;The &lt;i&gt;Moral Letters to Lucilius&lt;/i&gt; have been popular and influential since their publication, and were widely read from the Roman period, up through the Middle Ages, and into the Renaissance, where &lt;a href="https://standardebooks.org/ebooks/michel-de-montaigne"&gt;Michel de Montaigne&lt;/a&gt; modelled his &lt;a href="https://standardebooks.org/ebooks/michel-de-montaigne/essays/charles-cotton"&gt;&lt;i&gt;Essays&lt;/i&gt;&lt;/a&gt; on the &lt;i&gt;Moral Letters&lt;/i&gt;. They are still highly regarded today for their practical and sage advice.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/seneca"&gt;Seneca&lt;/a&gt; was a Stoic philosopher and statesman in Rome’s early post-Augustan era. He was Nero’s tutor, and then his advisor when Nero became emperor in 54 CE. After Seneca retired from public life, he wrote a series of letters to his friend Lucilius, the procurator of Sicily. These letters were circulated right before Seneca’s death in 65 CE, when Nero forced him to commit suicide for his alleged involvement in a conspiracy.&lt;/p&gt;
+			&lt;p&gt;These letters, which were written for widespread publication as well as directly to Lucilius, mainly focus on guiding the reader to a life well-lived. At times, the advice is regarding specific personal issues, such as when he gives a review of a book written by Lucilius. Other letters give Seneca’s thoughts on broader issues like slavery, independence of thought, and virtue. Through all of them, his Stoicism shines through, whether in his metaphysics (like when he writes on “the god within us”) or in his focus on how virtue is the only good. His diverse interests are also on display, as when he addresses current events (like the burning of Lyons), or when he speculates on science (like when he offers his thoughts on animal instincts).&lt;/p&gt;
+			&lt;p&gt;These letters have been popular and influential since their initial circulation, and were widely read from the Roman period, up through the Middle Ages, and into the Renaissance, where &lt;a href="https://standardebooks.org/ebooks/michel-de-montaigne"&gt;Michel de Montaigne&lt;/a&gt; used them as a model for his &lt;a href="https://standardebooks.org/ebooks/michel-de-montaigne/essays/charles-cotton"&gt;&lt;i&gt;Essays&lt;/i&gt;&lt;/a&gt;. They remain highly regarded today for their practical and sage advice.&lt;/p&gt;
 		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://en.wikisource.org/wiki/Moral_letters_to_Lucilius</dc:source>
@@ -57,8 +57,8 @@
 		<dc:source>https://archive.org/details/adluciliumepistu02sene_0</dc:source>
 		<!-- Volume 3 -->
 		<dc:source>https://archive.org/details/adluciliumepistu03sene</dc:source>
-		<meta property="schema:wordCount">WORD_COUNT</meta>
-		<meta property="schema:educationalLevel">READING_EASE</meta>
+		<meta property="schema:wordCount">213458</meta>
+		<meta property="schema:educationalLevel">65.96</meta>
 		<link href="https://en.wikipedia.org/wiki/Moral_Letters_to_Lucilius" rel="schema:sameAs"/>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
 		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
@@ -91,6 +91,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Emma Sweeney</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Sweeney, Emma</meta>
+		<link href="https://www.linkedin.com/in/emma-sweeney-554927190/" refines="#producer-2" rel="schema:url"/>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
